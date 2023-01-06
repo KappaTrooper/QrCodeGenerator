@@ -1,0 +1,12 @@
+body {
+    background-color: #efefef;
+    font-size: 25px;
+    font-family: Monospace;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #downloadLink {
+    display: none;
+  }
